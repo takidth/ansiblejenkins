@@ -1,3 +1,2 @@
 [clients]
-client1 ansible_host=10.10.10.133 
-
+client1 ansible_host=10.10.10.133 ansible_user=jenkins
