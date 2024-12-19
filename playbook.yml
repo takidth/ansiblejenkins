@@ -1,6 +1,6 @@
 ---
 - name: Installer et démarrer Nginx
-  hosts: web
+  hosts: clients
   become: yes
   tasks:
     - name: Installer Nginx
